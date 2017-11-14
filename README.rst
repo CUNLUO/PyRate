@@ -311,10 +311,10 @@ This repository is licensed under Apache License 2.0. See the `License deed <LIC
 Contacts
 ========
 
-**Sudipta Basak**  
-*Lead Developer*  
-sudipta.basak@ga.gov.au or basaks@gmail.com  
+|**Sudipta Basak**  
+|*Lead Developer*  
+|sudipta.basak@ga.gov.au or basaks@gmail.com  
 
-**Matt Garthwaite**  
-*Developer*  
-matt.garthwaite@ga.gov.au  
+|**Matt Garthwaite**  
+|*Developer*  
+|matt.garthwaite@ga.gov.au  
