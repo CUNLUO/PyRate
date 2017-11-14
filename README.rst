@@ -303,6 +303,11 @@ For bugs, questions and discussions, please use `Github
 Issues <https://github.com/GeoscienceAustralia/PyRate/issues>`_.
 
 ========
+License
+========
+This repository is licensed under Apache License 2.0. See the [LICENSE deed](LICENSE) in this repository for details.
+
+========
 Contacts
 ========
 
